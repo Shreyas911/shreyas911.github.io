@@ -59,12 +59,12 @@ plugins:
 
 author:
   name   : "Shreyas Gaikwad"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Shreyas_image.jpg"
   bio    : "Graduate Research Assistant"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://shreyas911.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/shreyasg911"
