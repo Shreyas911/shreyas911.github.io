@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Home"
 ---
 
 I am a third year Ph.D. student at the Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin. I am broadly interested in machine learning, optimization, inverse problems, uncertainty quantification, computational glaciology, and computational oceanography. I am currently working on two major projects ‐ 
