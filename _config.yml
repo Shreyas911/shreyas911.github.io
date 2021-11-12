@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Shreyas Gaikwad
 email: shreyas.gaikwad@utexas.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Shreyas Gaikwad's personal website
 twitter_username: shreyasg911
 github_username: Shreyas911
 minimal_mistakes_skin: dark
@@ -58,9 +55,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Shreyas Gaikwad"
-  avatar : "/assets/images/Shreyas_image.jpg"
-  bio    : "Graduate Research Assistant"
+  name      : "Shreyas Gaikwad"
+  avatar    : "/assets/images/Shreyas_image.jpg"
+  bio       : "Graduate Research Assistant"
+  location  : "Austin, TX"
+  email     : "shreyas.gaikwad@utexas.edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
