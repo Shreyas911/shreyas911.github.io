@@ -6,7 +6,7 @@ entries_layout: grid
 author_profile: true
 
 feature_row:
-  - image_path: assets/images/challengingDestiny.jpeg
+  - image_path: /assets/images/challengingDestiny.jpeg
     alt: "Shivaji biography"
   - image_path: /assets/images/jayaMahabharata.jpeg
     alt: "Mahabharata"
@@ -14,7 +14,7 @@ feature_row:
     alt: "Sachin Autobiography"
 
 feature_row_1:
-  - image_path: assets/images/sapiens.jpeg
+  - image_path: /assets/images/sapiens.jpeg
     alt: "Sapiens"
   - image_path: /assets/images/freakonomics.jpeg
     alt: "Freakonomics"
@@ -22,7 +22,7 @@ feature_row_1:
     alt: "Black Swan"
 
 feature_row_2:
-  - image_path: assets/images/kaneAndAbel.jpeg
+  - image_path: /assets/images/kaneAndAbel.jpeg
     alt: "Kane and Abel"
   - image_path: /assets/images/firstAmongEquals.jpeg
     alt: "First Among Equals"
@@ -30,7 +30,7 @@ feature_row_2:
     alt: "Only Time Will Tell"
 
 feature_row_3:
-  - image_path: assets/images/readyPlayerOne.jpeg
+  - image_path: /assets/images/readyPlayerOne.jpeg
     alt: "Ready Player One"
   - image_path: /assets/images/subtleArtOfNotGivingAFuck.jpeg
     alt: "Subtle Art of Not Giving a Fuck"
@@ -38,7 +38,7 @@ feature_row_3:
     alt: "Not a Penny More, Not a Penny Less"
 
 feature_row_4:
-  - image_path: assets/images/angelsAndDemons.jpeg
+  - image_path: /assets/images/angelsAndDemons.jpeg
     alt: "Angels and Demons"
   - image_path: /assets/images/harryPotter.jpeg
     alt: "Harry Potter"
@@ -46,7 +46,7 @@ feature_row_4:
     alt: "Da Vinci Code"
 
 feature_row_5:
-  - image_path: assets/images/GoT.jpeg
+  - image_path: /assets/images/GoT.jpeg
     alt: "A Game of Thrones"
   - image_path: /assets/images/prisonerOfBirth.jpeg
     alt: ""
@@ -54,7 +54,7 @@ feature_row_5:
     alt: "A Clash of Kings"
 
 feature_row_6:
-  - image_path: assets/images/gandhiAutoBio.jpeg
+  - image_path: /assets/images/gandhiAutoBio.jpeg
     alt: "Gandhiji Autobiography"
   - image_path: /assets/images/modiEffect.jpeg
     alt: "Modi Effect"
@@ -62,7 +62,7 @@ feature_row_6:
     alt: "Count of Monte Cristo"
 
 feature_row_7:
-  - image_path: assets/images/baburBio.jpeg
+  - image_path: /assets/images/baburBio.jpeg
     alt: "Babur semi-fictional biography"
   - image_path: /assets/images/humayunBio.jpeg
     alt: "Humayun semi-fictional biography"
