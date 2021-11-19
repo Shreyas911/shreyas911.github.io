@@ -71,10 +71,10 @@ feature_row_7:
 ---
 
 {% include feature_row %}
-{% include feature_row_1 %}
-{% include feature_row_2 %}
-{% include feature_row_3 %}
-{% include feature_row_4 %}
-{% include feature_row_5 %}
-{% include feature_row_6 %}
-{% include feature_row_7 %}
+{% include feature_row id="feature_row_1" %}
+{% include feature_row id="feature_row_2" %}
+{% include feature_row id="feature_row_3" %}
+{% include feature_row id="feature_row_4" %}
+{% include feature_row id="feature_row_5" %}
+{% include feature_row id="feature_row_6" %}
+{% include feature_row id="feature_row_7" %}
