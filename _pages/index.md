@@ -13,3 +13,5 @@ Over the course of my work, I have collaborated with researchers from Argonne Na
 Previously, I completed B.Tech in Mechanical Engineering (with Honors) and Minor in Computer Science from the Indian Institute of Technology, Bombay (IIT-Bombay), Mumbai, India in May 2019. I also received my Masters Degree in Computational Science, Engineering and Mathematics from UT Austin in May 2021. 
 
 In my free time, I like hiking, playing chess, cricket, and reading (mostly history and fiction). All of these activities are a lot more fun when [Baloo](https://www.instagram.com/babybaloo.thelab/) is also involved.
+
+![](/assets/images/wordCloud.jpeg)
