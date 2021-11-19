@@ -1,6 +1,6 @@
 ---
 title: "Books"
-permalink: /projects/
+permalink: /books/
 layout: splash
 entries_layout: grid
 author_profile: true
