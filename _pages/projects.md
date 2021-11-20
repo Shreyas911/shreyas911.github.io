@@ -53,8 +53,8 @@ feature_row_2:
   - image_path: /assets/images/MLgeophysics.jpeg
     image_caption: "Data courtesy of Dr. Zoltan Sylvester"
     alt: "ML applications in geophysics"
-    title: "Explored utility of Machine/Deep Learning across multiple applications in geophysics."
-    excerpt: ""
+    title: "Machine/Deep Learning applications in geophysics"
+    excerpt: "Explored utility of autoencoders, GANs, CNNs, ML algorithms across multiple applications in geophysics."
     url: /
     btn_label: "Read More"
     btn_class: "btn--primary"
