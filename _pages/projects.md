@@ -66,10 +66,10 @@ feature_row_5:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
-{% include feature_row id="feature_row_1" type="left" %}
-{% include feature_row id="feature_row_2" type="right" %}
-{% include feature_row id="feature_row_3" type="left" %}
-{% include feature_row id="feature_row_4" type="right" %}
-{% include feature_row id="feature_row_5" type="left" %}
+{% include feature_row type="left"%}
+{% include feature_row id="feature_row_1" type="right" %}
+{% include feature_row id="feature_row_2" type="left" %}
+{% include feature_row id="feature_row_3" type="right" %}
+{% include feature_row id="feature_row_4" type="left" %}
+{% include feature_row id="feature_row_5" type="right" %}
 
