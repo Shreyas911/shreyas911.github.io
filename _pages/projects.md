@@ -14,6 +14,8 @@ feature_row:
     url: /
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row_1:
   - image_path: /assets/images/mitgcmFKB.jpeg
     image_caption: "Image courtesy of [An T. Nyugen](https://oden.utexas.edu/people/1464/)"
     alt: "MITgcm with FKB"
@@ -22,6 +24,8 @@ feature_row:
     url: /
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row_2:
   - image_path: assets/images/stampede2.jpeg
     image_caption: "Image courtesy of TACC"
     alt: "TNT course project"
@@ -31,7 +35,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row_1:
+feature_row_3:
   - image_path: /assets/images/PINN.jpeg
     image_caption: "Image from L.Lu et. al (2019)"
     alt: "PINN"
@@ -40,6 +44,8 @@ feature_row_1:
     url: /
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row_4:
   - image_path: assets/images/inverseProblem.jpeg
     image_caption: "Image from Isaac et. al (2015)"
     alt: "Inverse Problems Course"
@@ -48,6 +54,8 @@ feature_row_1:
     url: /
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row_5:
   - image_path: /assets/images/MLgeophysics.jpeg
     image_caption: "Data courtesy of Dr. Zoltan Sylvester"
     alt: "ML applications in geophysics"
@@ -59,4 +67,9 @@ feature_row_1:
 ---
 
 {% include feature_row %}
-{% include feature_row id="feature_row_1" %}
+{% include feature_row id="feature_row_1" type="left" %}
+{% include feature_row id="feature_row_2" type="right" %}
+{% include feature_row id="feature_row_3" type="left" %}
+{% include feature_row id="feature_row_4" type="right" %}
+{% include feature_row id="feature_row_5" type="left" %}
+
