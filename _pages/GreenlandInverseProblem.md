@@ -6,7 +6,7 @@ author_profile: true
 permalink: /greenlandInversion/
 ---
 
-![](/assets/images/greenlandRadar.jpeg)
+![Radar image of the Greenland ice sheet. The ice surface and the ice-bedrock interface are shown in red. This section from North-East Greenland is 160 km long and collected in an area where the ice is frozen to the bedrock and the shape of the internal layers follow the bedrock topography. Courtesy Center for Remote Sensing of Ice Sheets, CReSIS.](/assets/images/greenlandRadar.jpeg)
 
 The Greenland Ice Sheet is a significant contributor to present sea level rise, even more than Antarctica currently. It is thus important to accurately project the future behavior of the ice sheet, and thus its impact on sea level rise. The projections of have suffered from ad-hoc initialization methods, lack of observational constraints, and lack of rigorous calibration methods. 
 
