@@ -11,7 +11,7 @@ feature_row:
     alt: "GrIS Inverse Problem"
     title: "Bayesian Inverse Methods for Ice Sheet Model Calibration and Reconstruction"
     excerpt: "Calibrating ice sheet model SICOPOLIS using age layer radar data in order to project accurately into the future."
-    url: /
+    url: /greenlandInversion/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
