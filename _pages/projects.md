@@ -7,7 +7,7 @@ author_profile: true
 
 feature_row:
   - image_path: assets/images/greenlandRadar.jpeg
-    image_caption: "Image courtesy of CReSIS"
+    image_caption: "Courtesy CReSIS"
     alt: "GrIS Inverse Problem"
     title: "Bayesian Inverse Methods for Ice Sheet Model Calibration and Reconstruction"
     excerpt: "Calibrating ice sheet model SICOPOLIS using age layer radar data in order to project accurately into the future."
@@ -17,7 +17,7 @@ feature_row:
 
 feature_row_1:
   - image_path: /assets/images/mitgcmFKB.jpeg
-    image_caption: "Image courtesy of [An T. Nyugen](https://oden.utexas.edu/people/1464/)"
+    image_caption: "Courtesy [An T. Nguyen](https://oden.utexas.edu/people/1464/)"
     alt: "MITgcm with FKB"
     title: "Deep Learning Emulator for the dynamics of sea ice within the MITgcm model"
     excerpt: "Can we reduce the computational costs of dynamic sea ice models using Deep Learning?"
@@ -57,7 +57,7 @@ feature_row_4:
 
 feature_row_5:
   - image_path: /assets/images/MLgeophysics.jpeg
-    image_caption: "Data courtesy of Dr. Zoltan Sylvester"
+    image_caption: "Seismic data courtesy of NAMSS"
     alt: "ML applications in geophysics"
     title: "Machine/Deep Learning applications in geophysics"
     excerpt: "Explored utility of autoencoders, GANs, CNNs, ML algorithms across multiple applications in geophysics."
