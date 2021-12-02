@@ -6,7 +6,7 @@ author_profile: true
 permalink: /greenlandInversion/
 ---
 
-![](assets/images/greenlandRadar.jpeg)
+![](/assets/images/greenlandRadar.jpeg)
 
 The Greenland Ice Sheet is a significant contributor to present sea level rise, even more than Antarctica currently. It is thus important to accurately project the future behavior of the ice sheet, and thus its impact on sea level rise. The projections of have suffered from ad-hoc initialization methods, lack of observational constraints, and lack of rigorous calibration methods. 
 
