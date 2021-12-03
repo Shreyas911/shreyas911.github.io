@@ -15,14 +15,13 @@ Collaborator - Landon Lockhart
 
 We explored the following Machine Learning applications in geophysics - 
 
-- Regression to estimate sonic well log from gamma ray (GR), resistivity, density, and neutron logs
-- CLassification model for predicting lithofacies from well-log measurements and geologic indicators
-- Artificial Neural Network approach to pick a seafloor horizon automatically based on seismic data
-- Convolutiona Neural Network in order to classify Earthquakes from noise signals
+- Regression to estimate sonic well log from gamma ray, resistivity, density, and neutron logs
+- Classification model for predicting lithofacies from well-logs and geologic indicators
+- Artificial Neural Network approach to pick a horizon automatically based on seismic data
+- Convolutional Neural Network in order to classify Earthquakes from noise signals
 - U-Net for image segmentation application in seismic fault detection
 - Autoencoder for extracting useful patterns in order to pick horizons
 - Correlating time series: Dynamic Time Warping and 3D optimization
 
 Many parts of the code and some datasets are confidential, and thus a Github link cannot be shared here. Contact for further information.
 
-The code and the presentation can be found [here](https://github.com/Shreyas911/PINN).
