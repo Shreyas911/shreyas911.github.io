@@ -21,17 +21,17 @@ feature_row_1:
     alt: "MITgcm with FKB"
     title: "Deep Learning Emulator for the dynamics of sea ice within the MITgcm model"
     excerpt: "Can we reduce the computational costs of dynamic sea ice models using Deep Learning?"
-    url: /TNT/
+    url: /MITgcm_FKB/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row_2:
   - image_path: assets/images/stampede2.jpeg
-    image_caption: "Image courtesy of TACC"
+    image_caption: "Courtesy TACC"
     alt: "TNT course project"
     title: "Laplacian 2D Finite Difference (FD) solver on Stampede2 Supercomputer"
     excerpt: "Leveraged TACC's Stampede2 Supercomputer to build a heat equation solver."
-    url: /
+    url: /TNT/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -41,7 +41,7 @@ feature_row_3:
     alt: "PINN"
     title: "Deep Mountain Glaciers"
     excerpt: "Leveraging Deep Learning to emulate as well as invert non-linear, highly diffusive mountain glacier model."
-    url: /
+    url: /PINN/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -49,9 +49,9 @@ feature_row_4:
   - image_path: assets/images/inverseProblem.jpeg
     image_caption: "Image from Isaac et. al (2015)"
     alt: "Inverse Problems Course"
-    title: "Solving PDE-constrained inverse problems using FENICS"
+    title: "Solving PDE-constrained inverse problems using FEniCS"
     excerpt: "Solved ill-conditioned inverse problems using the adjoint equations and special second order methods."
-    url: /
+    url: /FEniCS
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -61,7 +61,7 @@ feature_row_5:
     alt: "ML applications in geophysics"
     title: "Machine/Deep Learning applications in geophysics"
     excerpt: "Explored utility of autoencoders, GANs, CNNs, ML algorithms across multiple applications in geophysics."
-    url: /
+    url: /ML_geo/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
