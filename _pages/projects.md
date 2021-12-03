@@ -59,7 +59,7 @@ feature_row_5:
   - image_path: /assets/images/MLgeophysics.jpeg
     image_caption: "Seismic data courtesy of NAMSS"
     alt: "ML applications in geophysics"
-    title: "Machine/Deep Learning applications in geophysics"
+    title: "Machine Learning applications in geophysics"
     excerpt: "Explored utility of autoencoders, GANs, CNNs, ML algorithms across multiple applications in geophysics."
     url: /ML_geo/
     btn_label: "Read More"
