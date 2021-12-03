@@ -27,4 +27,4 @@ We created a steady-state heat equation solver using Object Oriented Programming
 - 0% memory errors (Valgrind)
 - 98% code coverage tested using lcov and gcov
 
-The code and the final presentation can be found here[https://github.com/uthpc/cse380-2020-student-Shreyas911]. The link might not work, in which case feel free to contact me.
+The code and the final presentation can be found [here](https://github.com/uthpc/cse380-2020-student-Shreyas911). The link might not work, in which case feel free to contact me.

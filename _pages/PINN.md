@@ -17,4 +17,4 @@ Based on recent developments in Physics-Informed Machine Learing, we attempt to 
 - Emulate a highly non-linear, diffusive mountain glacier model
 - Infer the coefficients of the mountain glacier model from artificially generated data
 
-The code and the presentation can be found here[https://github.com/Shreyas911/PINN].
+The code and the presentation can be found [here](https://github.com/Shreyas911/PINN).
