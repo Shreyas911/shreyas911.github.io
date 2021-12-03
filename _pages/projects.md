@@ -10,7 +10,7 @@ feature_row:
     image_caption: "Courtesy CReSIS"
     alt: "GrIS Inverse Problem"
     title: "Bayesian Inverse Methods for Ice Sheet Model Calibration and Reconstruction"
-    excerpt: "Calibrating ice sheet model SICOPOLIS using age layer radar data in order to project accurately into the future."
+    excerpt: "Calibrating ice sheet model SICOPOLIS using age layer radar data in order to project the future impact on sea level accurately."
     url: /greenlandInversion/
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -21,7 +21,7 @@ feature_row_1:
     alt: "MITgcm with FKB"
     title: "Deep Learning Emulator for the dynamics of sea ice within the MITgcm model"
     excerpt: "Can we reduce the computational costs of dynamic sea ice models using Deep Learning?"
-    url: /
+    url: /TNT/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
