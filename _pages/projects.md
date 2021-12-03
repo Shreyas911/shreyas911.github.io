@@ -64,6 +64,16 @@ feature_row_5:
     url: /ML_geo/
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row_6:
+  - image_path: /assets/images/UQ.jpeg
+    alt: "UQ in Computational Models"
+    title: "Uncertainty Quantification in Computational Models"
+    excerpt: "Using Bayesian framework to quantify uncertainties in model parameters."
+    url: /UQ/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row type="left"%}
@@ -72,4 +82,4 @@ feature_row_5:
 {% include feature_row id="feature_row_3" type="right" %}
 {% include feature_row id="feature_row_4" type="left" %}
 {% include feature_row id="feature_row_5" type="right" %}
-
+{% include feature_row id="feature_row_6" type="left" %}

@@ -11,6 +11,7 @@ permalink: /ML_geo/
 | Graphical visualization of a horizon clearly depicting geologic features such as incised valleys, channels, salt domes, and faults formed by the salt dome. Seismic data from the National Archive of Marine Seismic Surveys (NAMSS) |
 
 Course advisor - Dr. Sergey Fomel, Dr. Zoltan Sylvester, Dr. Jacob Covault
+
 Collaborator - Landon Lockhart
 
 We explored the following Machine Learning applications in geophysics - 
