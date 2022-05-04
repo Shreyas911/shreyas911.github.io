@@ -1,0 +1,1 @@
+The <a href="https://sicopolis.readthedocs.io/en/latest/AD/AD.html#id1">documentation for SICOPOLIS-AD v2</a> has been released! A paper for submission in the Journal for Open Source Software is in preparation.

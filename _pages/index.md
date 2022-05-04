@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Home"
+news: true  # includes a list of news items
 ---
 
 
@@ -17,3 +18,12 @@ Previously, I completed B.Tech in Mechanical Engineering (with Honors) and Minor
 
 In my free time, I like hiking, playing chess, cricket, and reading (mostly history and fiction). All of these activities are a lot more fun when [Baloo](https://www.instagram.com/babybaloo.thelab/) is also involved.
 
+## News
+  {% for post in site.posts limit:5 %}
+  <article>
+    <b><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></b>
+    <br>
+    {{ post.content | markdownify | truncatewords: 500 }}
+  </article>
+  
+{% endfor %}

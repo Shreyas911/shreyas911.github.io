@@ -1,0 +1,1 @@
+I am going to visit Argonne National Laboratory for Summer 2022! My work will focus on developing open source adjoint models for the <a href="https://mitgcm.readthedocs.io/en/latest/">MITgcm model</a>, as well as some work for the <a href="https://dj4earth.github.io/">DJ4Earth project</a>.
