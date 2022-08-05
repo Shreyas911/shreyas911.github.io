@@ -1,0 +1,1 @@
+I will serve as a Graduate Teaching Assistant for the course for the course “Introduction to Mathematical Modeling in Science and Engineering I” in Fall 2022, instructed by <a href="https://oden.utexas.edu/people/directory/Patrick-heimbach/">Dr. Patrick Heimbach</a>.
