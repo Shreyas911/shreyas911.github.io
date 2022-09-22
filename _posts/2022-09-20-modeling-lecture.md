@@ -1,0 +1,1 @@
+Taught my first ever full lecture, for the course “Introduction to Mathematical Modeling in Science and Engineering I”. I covered the material around Lagrangian and Eulerian derivatives, as well as the proof of the Reynolds' Transport Theorem.

@@ -1,0 +1,1 @@
+I will be attending  <a href="https://publish.illinois.edu/14th-jlesc-workshop/">Joint Laboratory for Extreme Scale Computing (JLESC) Workshop</a> at <a href = "https://illinois.edu/">The University of Illinois Urbana-Champaign</a>, where I will also be presenting a poster detailing our work on SICOPOLIS-AD and MITgcm-AD.
