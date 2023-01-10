@@ -21,7 +21,7 @@ I am passionate about Open Source Software Development, and have contributed sub
 
 Previously, I completed B.Tech in Mechanical Engineering (with Honors) and Minor in Computer Science from the Indian Institute of Technology, Bombay (IIT-Bombay), Mumbai, India in May 2019. I also received my Masters Degree in Computational Science, Engineering and Mathematics from UT Austin in May 2021. 
 
-In my free time, I like hiking, playing chess, cricket, and reading (mostly history and fiction). I have also recently taken up cubing, and can solve up to a 5x5. All of these activities are a lot more fun when [Baloo](https://www.instagram.com/babybaloo.thelab/) is also involved.
+In my free time, I like hiking, playing chess, cricket, and reading (mostly history and fiction). I have also recently taken up cubing, and can solve up to a 5x5. All of these activities are a lot more fun when [Baloo](https://www.instagram.com/baloo.theterrier/) is also involved.
 
 ## News
   {% for post in site.posts limit:5 %}
