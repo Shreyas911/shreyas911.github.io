@@ -1,0 +1,1 @@
+Our work on SICOPOLIS-AD v2 is finally published in the Journal of Open Source Software (JOSS)! Check it out <a href="https://joss.theoj.org/papers/10.21105/joss.04679">here</a>! Tweet by JOSS <a href="https://twitter.com/JOSS_TheOJ/status/1633126658273341440">here</a> and Toot by JOSS <a href="https://fosstodon.org/@joss/109982692986698160">here</a>!
