@@ -1,0 +1,1 @@
+I am going to Qeqertarsuaq, Greenland in August-Septemeber 2023 as part of the prestigious [ACDC/GRISO summer school 2023](https://griso.ucsd.edu/acdc-griso-summer-school-2023-past-and-future-changes-in-greenland-climate/)! We will be based at the Arctic Station there.
