@@ -1,0 +1,1 @@
+Our work on MITgcm-AD v2 is submitted to Joint Laboratory on Extreme Scale Computing Future Generation Computer Systems (JLESC-FGCS), 2024. Check out the preprint on <a href="https://arxiv.org/abs/2401.11952">arXiv</a>!
