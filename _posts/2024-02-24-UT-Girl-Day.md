@@ -1,1 +1,1 @@
-Presenting our work on <a href="https://arxiv.org/abs/2401.11952">MITgcm-AD v2</a> at the <a href="https://ecco-group.org/updates-more.htm?id=53">ECCO Annual Meeting, 2024</a>!
+<a href="https://girlday.utexas.edu/">UT STEM Girl Day, 2024</a> : Helping organize and demonstrate to elementary and middle school kids how to conduct simple yet powerful experiments to understand the role of sea ice and glacial melts in the changing Arctic climate and explore observational and modeling tools fundamental to many CRIOS research projects.
