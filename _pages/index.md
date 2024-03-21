@@ -17,9 +17,7 @@ I am a reviewer at the Journal of Open Source Software (JOSS) and the Journal of
 
 Over the course of my work, I have collaborated with researchers from Indian Institute of Technology (IIT) Bombay, UT Austin, Argonne National Laboratory, Scripps Institution of Oceanography, Hokkaido University, IIT Kanpur, MIT, and Institut National de Recherche en Informatique et Automatique(INRIA), France.
 
-I am broadly interested in data assimilation under uncertainty, machine learning, optimization, and mathematical modeling of systems.
-
-Previously, I completed B.Tech in Mechanical Engineering (with Honors) and Minor in Computer Science from the IIT Bombay, Mumbai, India in May 2019. I received my Masters Degree in Computational Science, Engineering and Mathematics from UT-Austin in May 2021. 
+Previously, I completed a B.Tech in Mechanical Engineering (with Honors) and a Minor in Computer Science from the IIT Bombay, Mumbai, India in May 2019. I received my Master's in Computational Science, Engineering, and Mathematics from UT-Austin in May 2021.
 
 In my free time, I like hiking, playing chess, cricket, and reading (mostly history and fiction). I have also recently taken up cubing, and can solve up to a 5x5. All of these activities are a lot more fun when [Baloo](https://www.instagram.com/baloo.theterrier/) is also involved.
 
