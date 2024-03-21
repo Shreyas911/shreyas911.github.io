@@ -1,0 +1,1 @@
+Helped organize and demonstrate to elementary and middle school kids and their parents how to conduct simple yet powerful experiments to understand the role of sea ice and glacial melts in the changing Arctic climate and explore observational and modeling tools fundamental to many CRIOS research projects as part of <a href="https://girlday.utexas.edu/">UT STEM Girl Day, 2024</a>.
