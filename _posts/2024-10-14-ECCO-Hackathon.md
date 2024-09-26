@@ -1,1 +1,1 @@
-I will be giving a broad overview talk on Algorithmic Differentiation (AD) at the <a href="https://ecco-group.org/updates-more.htm?id=53">ECCO Hackweek</a> being held in <a href="https://www.caltech.edu">Caltech</a>, Pasadena, CA!
+I will be giving a broad overview talk on Algorithmic Differentiation (AD) at the <a href="https://ecco-hackweek.github.io/ecco-2024">ECCO Hackweek</a> being held in <a href="https://www.caltech.edu">Caltech</a>, Pasadena, CA!
