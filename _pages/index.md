@@ -7,6 +7,8 @@ news: true  # includes a list of news items
 
 ![](/assets/images/wordCloud.jpeg)
 
+**UPDATE**: I will be graduating soon and am actively exploring research-focused opportunities in academia and industry. Please feel free to reach out if my background aligns with your work or team. I'm quick to learn and enjoy diving into new topics, even when the fit isn’t perfect from the start.
+
 I am a Ph.D. candidate in the Computational Science, Engineering, and Mathematics (CSEM) program at [The Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu/), The University of Texas at Austin. I am advised by [Dr. Patrick Heimbach](https://heimbach.wordpress.com/) in the [CRIOS research group](https://crios-ut.github.io/).
 
 My research spans PDE-constrained Bayesian inverse problems, robust uncertainty quantification (UQ), physics-informed machine learning, and eXplainable AI (XAI). I develop methods to infer uncertain boundary conditions, initial states, and model parameters in a continental-scale ice sheet system (specifically, Greenland), using radiostratigraphy-derived age layer data. The goal is to improve the physical realism of ice sheet models and refine projections of sea level rise over the coming century.
