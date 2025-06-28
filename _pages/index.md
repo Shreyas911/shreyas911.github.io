@@ -14,8 +14,8 @@ I am a Ph.D. candidate in the Computational Science, Engineering, and Mathematic
 My research spans PDE-constrained Bayesian inverse problems, robust uncertainty quantification (UQ), physics-informed machine learning, and eXplainable AI (XAI). I develop methods to infer uncertain boundary conditions, initial states, and model parameters in a continental-scale ice sheet system (specifically, Greenland), using radiostratigraphy-derived age layer data. The goal is to improve the physical realism of ice sheet models and refine projections of sea level rise over the coming century.
 
 I am deeply committed to open-source scientific software and have led several initiatives:
-- Lead developer of **SICOPOLIS-AD v2**, an adjoint-enabled ice sheet model for data assimilation
-- Core contributor to **MITgcm-AD v2**, a free and open-source alternative to the proprietary MITgcm adjoint
+- Lead developer of [**SICOPOLIS-AD v2**](https://github.com/sicopolis/sicopolis/tree/ad), an adjoint-enabled ice sheet model for data assimilation
+- Core contributor to [**MITgcm-AD v2**](https://github.com/MITgcm/MITgcm), a free and open-source alternative to the proprietary MITgcm adjoint
 - Developer of Julia-based tools interfacing [Enzyme](https://enzyme.mit.edu) and MPI for glaciological modeling
 - Reviewer for the *Journal of Open Source Software*
 
