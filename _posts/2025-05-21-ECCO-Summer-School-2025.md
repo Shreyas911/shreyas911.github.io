@@ -1,1 +1,1 @@
-I presented a detailed overveiw on Algorithmic Differentiation (AD) as a lecturer at the <a href="https://ecco-summer-school.github.io/ecco-2025/">ECCO Summer School 2025</a> held in <a href="https://www.caltech.edu">Pacific Grove</a>, CA.
+I presented a detailed overview of Algorithmic Differentiation (AD) as a lecturer at the <a href="https://ecco-summer-school.github.io/ecco-2025/">ECCO Summer School 2025</a> held in <a href="https://www.caltech.edu">Pacific Grove</a>, CA.
