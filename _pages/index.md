@@ -7,7 +7,7 @@ news: true  # includes a list of news items
 
 ![](/assets/images/wordCloud.jpeg)
 
-**UPDATE**: I will be graduating soon and am actively exploring research-focused opportunities in academia and industry. Please feel free to reach out if my background aligns with your team. I'm quick to pick up new concepts and enjoy working on complex, interdisciplinary problems.
+**UPDATE**: I am graduating in December 2025 and am actively exploring research-focused opportunities in academia and industry. Please feel free to reach out if my background aligns with your team. I'm quick to pick up new concepts and enjoy working on complex, interdisciplinary problems.
 
 I am a Ph.D. candidate in the Computational Science, Engineering, and Mathematics (CSEM) program at [The Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu/), The University of Texas at Austin. I am advised by [Dr. Patrick Heimbach](https://heimbach.wordpress.com/) in the [CRIOS research group](https://crios-ut.github.io/).
 
