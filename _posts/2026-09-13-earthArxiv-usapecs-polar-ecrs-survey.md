@@ -1,0 +1,1 @@
+Our work titled "Assessing Challenges for U.S.-Based Polar Early Career Scientists During Science Policy Changes" is submitted to the Journal of Glaciology! Check out the preprint on <a href="https://eartharxiv.org/repository/view/14949">EarthArXiv</a>.
