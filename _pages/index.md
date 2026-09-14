@@ -8,13 +8,14 @@ news: true  # includes a list of news items
 ![](/assets/images/wordCloud.jpeg)
 
 
-**UPDATE**: I am joining [Cadence Design Systems](https://www.cadence.com/en_US/home.html) as a Lead Software Engineer in San Jose, CA! I will be driving platform software and R&D for Hardware System Validation (HSV) on Cadence Palladium emulation platforms. To this end, I will be developing low-latency C++ software. 
+I am currently working at [Cadence Design Systems](https://www.cadence.com/en_US/home.html) as a Lead Software Engineer in San Jose, CA! I am driving platform software and R&D for Hardware System Validation (HSV) on Cadence Palladium and Protium emulation platforms. To this end, I help maintain and develop low-latency C++ software. I am also still actively involved in polar science research that I pursued during my Ph.D. with researchers across multiple continents.
 
-I recently completed my Ph.D. in the Computational Science, Engineering, and Mathematics (CSEM) program at [The Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu/), The University of Texas at Austin. I was advised by [Dr. Patrick Heimbach](https://heimbach.wordpress.com/) in the [CRIOS research group](https://crios-ut.github.io/).
+I completed my Ph.D. in the Computational Science, Engineering, and Mathematics (CSEM) program at [The Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu/), The University of Texas at Austin in December 2025. I was advised by [Dr. Patrick Heimbach](https://heimbach.wordpress.com/) in the [CRIOS research group](https://crios-ut.github.io/).
 
 My research spans PDE-constrained Bayesian inverse problems, robust uncertainty quantification (UQ), physics-informed machine learning, and eXplainable AI (XAI). I develop methods to infer uncertain boundary conditions, initial states, and model parameters in a continental-scale ice sheet system (specifically, Greenland), using radiostratigraphy-derived age layer data. The goal is to improve the physical realism of ice sheet models and refine projections of sea level rise over the coming century.
 
-I am deeply committed to open-source scientific software and have led several initiatives:
+I am deeply committed to open-source scientific software and have led or been involved in several initiatives:
+- Core contributor to [**diffblas**](https://github.com/Shreyas911/diffblas), a package that provides open-source differentiated BLAS routines from their implementation in LAPACK using the open-source Automatic Differentiation (AD) tool Tapenade
 - Lead developer of [**SICOPOLIS-AD v2**](https://github.com/sicopolis/sicopolis/tree/ad), an adjoint-enabled ice sheet model for data assimilation
 - Core contributor to [**MITgcm-AD v2**](https://github.com/MITgcm/MITgcm), a free and open-source alternative to the proprietary MITgcm adjoint
 - Developer of Julia-based tools interfacing [Enzyme](https://enzyme.mit.edu) and MPI for glaciological modeling
