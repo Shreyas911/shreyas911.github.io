@@ -18,7 +18,7 @@ I am deeply committed to open-source scientific software and have led or been in
 - Core contributor to [**diffblas**](https://github.com/Shreyas911/diffblas), a package that provides open-source differentiated BLAS routines from their implementation in LAPACK using the open-source Automatic Differentiation (AD) tool Tapenade
 - Lead developer of [**SICOPOLIS-AD v2**](https://github.com/sicopolis/sicopolis/tree/ad), an adjoint-enabled ice sheet model for data assimilation
 - Core contributor to [**MITgcm-AD v2**](https://github.com/MITgcm/MITgcm), a free and open-source alternative to the proprietary MITgcm adjoint
-- Developer of Julia-based tools interfacing [Enzyme](https://enzyme.mit.edu) and MPI for glaciological modeling
+- Developer of Julia-based tools interfacing [**Enzyme.jl**](https://github.com/EnzymeAd/Enzyme.jl) and MPI for glaciological modeling
 - Reviewer for the *Journal of Open Source Software*
 
 In Summer 2024, I interned at **Ansys** as a machine learning intern. I worked on a Generative AI pipeline that transforms a single user-provided image into a 3D object mesh for simulation workflows. The system combined amortized neural radiance fields (NeRFs) with 3D-aware diffusion models into a fast, scalable, and parallelizable framework.
